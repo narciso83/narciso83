@@ -3,7 +3,7 @@
 - 💻 Atualmente estagiário de Dados & Analytics no Itaú
 
 
-## Tecnologias que utilizo no meu dia a dia:
+## Tecnologias que utilizo diariamente:
 <div display="inline">
 <img width="50" height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
 <img width="50" height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
@@ -13,16 +13,16 @@
 </div>
 
 
-## Estudando
+## No momento estou estudando
 <div display="inline">
 <img width="50" height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" />
 <img width="50" height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original-wordmark.svg" /> 
 <img width="50" height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original-wordmark.svg" />
 </div>
 
-### Você me encontra em:
+#### Você me encontra em:
 <a href="https://www.linkedin.com/in/victor-narciso/">
-  <img width="50" height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" />
+  <img width="60" height='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" />
 </a>
 
 <!---
