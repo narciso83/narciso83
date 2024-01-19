@@ -1,6 +1,6 @@
 ## Olá, meu nome é Victor
 
-- 💻 Atualmente estagiário de Dados & Analytics no Itaú, atuo na squad de Ingestão de Dados nos processos de Ingestão e Tratamento de dados para AWS utilizando Conta Consumer com os serviços Athena, Glue, S3 e Quicksight. Apoio na squad de Governança de Dados com agendas de capacitação, estratégias e boas práticas.
+- 💻 Atualmente estagiário de Dados & Analytics no Itaú, atuo na squad de Ingestão de Dados nos processos de Ingestão e Tratamento de dados para AWS utilizando Conta Consumer com os serviços Athena, Glue, S3 e Quicksight. Apoio também na squad de Governança de Dados com agendas de capacitação, estratégias e boas práticas no uso dos dados.
 
 
 ## Tecnologias que utilizo diariamente:
